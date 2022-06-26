@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				100
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-10,
+				110
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				10,
+				20
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				0,
+				1,
+				2,
+				0,
+				1,
+				2,
+				0,
+				1,
+				2,
+				0,
+				1,
+				2,
+				0,
+				1,
+				2,
+				0,
+				1,
+				2,
+				0,
+				1,
+				2,
+				1,
+				2,
+				1,
+				2,
+				1,
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "inhale",
+			"loop": false,
+			"name": "INHALE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/UNFAIR_GUY_FAICNG_FORWARD",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-135,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Applecore",
+			"bandu",
+			[
+				160,
+				255,
+				80
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Fuck.",
+	"weekName": "AppleCore",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
